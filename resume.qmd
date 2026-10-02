@@ -1,0 +1,8 @@
+---
+title: "Resume"
+---
+
+<iframe width="800" height="1000"
+src="_FALL26_Peyton_Meierhoff_Resume.pdf">
+</iframe>
+---
